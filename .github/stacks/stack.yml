@@ -7,7 +7,7 @@ branding:
   icon: menu
 
 inputs:
-  - name: customer_name
+  - name: Customer_Name
     description: Name of customer this repository is for.
     required: true
 
